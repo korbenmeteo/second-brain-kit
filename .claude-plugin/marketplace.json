@@ -1,0 +1,11 @@
+{
+  "name": "second-brain-kit",
+  "owner": { "name": "Ruben Hallali" },
+  "plugins": [
+    {
+      "name": "second-brain-kit",
+      "source": "./",
+      "description": "A markdown second brain run by Claude: raw sources become wiki pages, actions become task cards, task cards become drafts. Folder structure, CLAUDE.md, nine skills and a health checker."
+    }
+  ]
+}

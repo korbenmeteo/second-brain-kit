@@ -1,0 +1,7 @@
+# A vault created inside the clone holds personal data: never commit it
+/vault/
+/my-vault/
+# Python
+__pycache__/
+*.pyc
+.DS_Store

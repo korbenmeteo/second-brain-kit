@@ -1,0 +1,8 @@
+{
+  "name": "second-brain-kit",
+  "version": "0.1.0",
+  "description": "A markdown second brain run by Claude: raw sources become wiki pages, actions become task cards, task cards become drafts. Folder structure, CLAUDE.md, nine skills and a health checker.",
+  "author": { "name": "Ruben Hallali", "url": "https://x.com/RubenHallali" },
+  "license": "MIT",
+  "keywords": ["second-brain", "knowledge-base", "obsidian", "markdown", "wiki", "tasks", "kanban", "claude-code", "skills"]
+}
